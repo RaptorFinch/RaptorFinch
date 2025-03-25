@@ -10,5 +10,5 @@
 - ⚡ Fun fact: While learning Rust, ownership and borrowing made me both frustrated and excited at the same time!
 
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@happyeveryday/30-nites-of-code)  
-  ![@happyeveryday #30NitesOfCode](https://www.codedex.io/api/petStatus?user=happyeveryday)
+  [Check out my progress!](https://www.codedex.io/@RaptorFinch/30-nites-of-code)  
+  ![@RaptorFinch #30NitesOfCode](https://www.codedex.io/api/petStatus?user=RaptorFinch)
