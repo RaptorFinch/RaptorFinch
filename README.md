@@ -12,3 +12,6 @@
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@RaptorFinch/30-nites-of-code)  
   ![@RaptorFinch #30NitesOfCode](https://www.codedex.io/api/petStatus?user=RaptorFinch)
+
+## DigitalOcean
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=118af3127072&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
